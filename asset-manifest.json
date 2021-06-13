@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.3122fa28.chunk.css",
+    "main.js": "/profile-card/static/js/main.1fdeb0de.chunk.js",
+    "main.js.map": "/profile-card/static/js/main.1fdeb0de.chunk.js.map",
+    "runtime-main.js": "/profile-card/static/js/runtime-main.763c70fd.js",
+    "runtime-main.js.map": "/profile-card/static/js/runtime-main.763c70fd.js.map",
+    "static/js/2.13fce13c.chunk.js": "/profile-card/static/js/2.13fce13c.chunk.js",
+    "static/js/2.13fce13c.chunk.js.map": "/profile-card/static/js/2.13fce13c.chunk.js.map",
+    "static/js/3.d779a9a0.chunk.js": "/profile-card/static/js/3.d779a9a0.chunk.js",
+    "static/js/3.d779a9a0.chunk.js.map": "/profile-card/static/js/3.d779a9a0.chunk.js.map",
+    "index.html": "/profile-card/index.html",
+    "static/css/main.3122fa28.chunk.css.map": "/profile-card/static/css/main.3122fa28.chunk.css.map",
+    "static/js/2.13fce13c.chunk.js.LICENSE.txt": "/profile-card/static/js/2.13fce13c.chunk.js.LICENSE.txt",
+    "static/media/mine.10bbab0c.jfif": "/profile-card/static/media/mine.10bbab0c.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.763c70fd.js",
+    "static/js/2.13fce13c.chunk.js",
+    "static/css/main.3122fa28.chunk.css",
+    "static/js/main.1fdeb0de.chunk.js"
+  ]
+}
